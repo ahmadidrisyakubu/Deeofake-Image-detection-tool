@@ -1,0 +1,10 @@
+Flask
+Flask-WTF
+Flask-Limiter
+tensorflow
+numpy
+Pillow
+python-magic
+werkzeug
+matplotlib
+gunicorn
