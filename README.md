@@ -26,3 +26,4 @@ This project is a web-based Deepfake Image Detection Tool developed for Apex Bro
 ```bash
 pip install -r requirements.txt
 python app.py
+"# deepfake-tool" 
